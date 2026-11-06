@@ -21,3 +21,8 @@
  - **Prediction:** After training, the model successfully identifies and predicts new dog breeds with high confidence (e.g., classifying a poodle).
  - **Generative AI (GenAI):** Positioned within deep learning, GenAI goes beyond analysis to synthesize brand-new content such as text, images, code, and audio.
  - **Multi-Modal Capabilities:** GenAI models can generate a wide range of original digital formats, including text, art/images, audio, and video.
+
+## Summary:
+
+<img width="940" height="513" alt="image" src="https://github.com/user-attachments/assets/8cd640f6-32f0-416e-9709-e34ec92a7451" />
+
